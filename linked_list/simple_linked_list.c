@@ -146,7 +146,7 @@ int main() {
 
     init_list();
     ordered_insert(10);
-    ordered_insert(5);\
+    ordered_insert(5);
     ordered_insert(8);
     ordered_insert(3);
     ordered_insert(1);
